@@ -70,12 +70,23 @@
 ## 🌍 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/ujjwal-verma-9a9b752a2/">
   <img src="https://img.shields.io/badge/LinkedIn-Ujjwal%20Verma-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
 <a href="mailto:ujjwal.verma1905@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
 </a>
+
+<a href="https://instagram.com/ujjwal_verma19">
+  <img src="https://img.shields.io/badge/Instagram-Ujjwal__verma19-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/unknowmusiclistener">
+  <img src="https://img.shields.io/badge/Music%20Page-UnknownMusicListener-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
 
 

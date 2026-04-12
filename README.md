@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 ## 🧠 About Me
 
@@ -22,7 +22,7 @@
 * ⚡ I design prompts that make AI perform complex tasks efficiently
 * 🎯 Preparing for **SDE roles & internships**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-purple?style=for-the-badge" />
 
 </p>
----
+
 
 
 ## 📈 GitHub Activity
@@ -52,7 +52,7 @@
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ujjwalverma19&theme=tokyonight" />
 </p>
----
+
 
 ## 🚀 Featured Projects
 
@@ -65,7 +65,7 @@
 🔹 **Prompt Engineering Toolkit**
 👉 Advanced prompts for automation & productivity
 
----
+
 
 ## 🌍 Connect With Me
 
@@ -78,13 +78,13 @@
 </a>
 </p>
 
----
+
 
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/ujjwalverma19/ujjwalverma19/blob/output/github-contribution-grid-snake.svg)
 
----
+
 
 ## ⚡ Fun Fact
 

@@ -30,6 +30,20 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,fastapi,mysql,sqlite,html,css" />
 </p>
 
+## 🏅 Skills & Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-Strong-blue?style=for-the-badge&logo=c%2B%2B" />
+<img src="https://img.shields.io/badge/Python-Strong-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/DSA-Strong-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-purple?style=for-the-badge" />
+
+</p>
 ---
 
 

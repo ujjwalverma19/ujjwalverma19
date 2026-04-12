@@ -32,16 +32,13 @@
 
 ---
 
-## 🏆 Achievements
 
 ## 🏆 Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ujjwalverma19&theme=radical&no-frame=true&margin-w=10" />
 </p>
----
 
-## 📈 GitHub Stats
 
 ## 📈 GitHub Stats
 

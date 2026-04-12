@@ -56,14 +56,17 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Real-Time Chat Application**
-👉 WebSocket-based real-time messaging system
+🔹 **SAI-ADVISORS (Business Portfolio Website)**  
+👉 Built a professional business website using React  
+👉 Showcases services, portfolio, and client-facing UI  
 
-🔹 **Smart Expense Analyzer (AI-Based)**
-👉 AI analyzes expenses and provides insights
+🔹 **Lost and Found Portal**  
+👉 Web app to report and find lost items  
+👉 Focused on real-world problem solving  
 
-🔹 **Prompt Engineering Toolkit**
-👉 Advanced prompts for automation & productivity
+🔹 **LeetCode Solutions (DSA Practice)**  
+👉 Collection of DSA problems solved using Python  
+👉 Strengthening problem-solving skills  
 
 
 

@@ -36,17 +36,16 @@
 ## 🏆 Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ujjwalverma19&theme=radical&no-frame=true&margin-w=15&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ujjwalverma19&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ujjwalverma19&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api?username=ujjwalverma19&show_icons=true&theme=tokyonight" />
 <br/>
-<img src="https://streak-stats.demolab.com?user=ujjwalverma19&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ujjwalverma19&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects

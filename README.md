@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=ujjwalverma19&color=blue" />
 
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:F700FF&height=120&section=footer" />
+
 
 ## 🧠 About Me
 

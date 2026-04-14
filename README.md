@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:00F7FF&height=200&section=header&text=Ujjwal%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 <div align="center">
 
 # 👋 Hey, I'm Ujjwal Verma
@@ -7,6 +5,8 @@
 🚀 **3rd Year IT Student | Software Developer | Prompt Engineer**
 
 <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&lines=Future+Software+Engineer;Prompt+Engineer;Building+Cool+Projects;Always+Learning+🚀&speed=40&pause=1000" />
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=ujjwalverma19&color=blue" />
 

@@ -1,4 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:00F7FF&height=200&section=header&text=Ujjwal%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<!-- 🖼️ Your Custom Banner -->
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
+
+<!-- 🌊 3D Wave Effect -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:f7b801&height=120&section=footer" />
 
 <div align="center">
 
@@ -6,12 +12,11 @@
 
 🚀 **3rd Year IT Student | Software Developer | Prompt Engineer**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F700FF\&lines=Future+Software+Engineer;Prompt+Engineer;Building+Cool+Projects;Always+Learning+🚀\&speed=40\&pause=1000)
+<img src="https://readme-typing-svg.herokuapp.com?color=F7B801&lines=Future+Software+Engineer;Prompt+Engineer;Building+Cool+Projects;Always+Learning+🚀&speed=40&pause=1000" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ujjwalverma19\&color=blue)
+<img src="https://komarev.com/ghpvc/?username=ujjwalverma19&color=blue" />
 
 </div>
-
 
 
 ## 🧠 About Me

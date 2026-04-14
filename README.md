@@ -91,6 +91,10 @@
   <img src="https://img.shields.io/badge/Music%20Page-UnknownSongListener-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
+<a href="https://leetcode.com/u/ujjwal_verma19/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 </p>
 
 

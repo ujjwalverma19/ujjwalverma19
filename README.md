@@ -1,3 +1,6 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:00F7FF&height=200&section=header&text=Ujjwal%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <div align="center">
 
 # 👋 Hey, I'm Ujjwal Verma
@@ -11,6 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=ujjwalverma19&color=blue" />
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:F700FF&height=120&section=footer" />
 
 ## 🧠 About Me
 

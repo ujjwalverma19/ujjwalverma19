@@ -1,9 +1,9 @@
-<!-- 🖼️ Your Custom Banner -->
+<!-- 🖼️ Compact Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.png" width="100%" height="300px" style="object-fit:cover; margin-bottom:-90px;" />
 </p>
 
-<!-- 🌊 3D Wave Effect -->
+<!-- 🌊 Overlapping Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:f7b801&height=120&section=footer" />
 
 <div align="center">

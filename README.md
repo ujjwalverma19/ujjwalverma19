@@ -61,24 +61,28 @@
 
 ## 🚀 Featured Projects
 
-🔹 **Spotify Recommendation System Analysis**
-👉 Product-focused analysis of Spotify’s recommendation engine
-👉 Explored personalization, user retention, and recommendation strategies
-👉 Proposed context-aware recommendations using weather, saved locations, and mood/activity patterns
-👉 Designed mood-based recommendation wireframes in Figma
+🔹 **Orivan — Editorial Learning Platform**
+👉 Discover the complete journeys of founders, scientists, athletes, creators, and innovators through beautifully crafted long-form experiences.
+👉 Built with TanStack Start, React 19, TypeScript, Tailwind CSS, SSR, and Cloudflare.
+👉 Features semantic search, curated collections, videos, community stories, SEO optimization, sitemap generation, and responsive design.
 
-🔹 **SAI-ADVISORS (Business Portfolio Website)**
-👉 Built a professional business website using React
-👉 Showcases services, portfolio, and client-facing UI
+🔹 **Veilory — AI-Powered Emotional Wisdom Platform**
+👉 A platform for preserving real-life experiences, failures, and lessons instead of social media highlights.
+👉 Designed around semantic search, emotional discovery, and meaningful storytelling.
+👉 Focused on AI-first product design, scalable architecture, and user-centered experiences.
+
+🔹 **SAI Advisors — Business Portfolio Website**
+👉 Designed and developed a modern business website for an insurance advisory firm.
+👉 Built with React, Vite, and responsive UI components to showcase services, portfolio, and company information.
+👉 Focused on clean design, performance, and professional user experience.
 
 🔹 **Lost and Found Portal**
-👉 Web app to report and find lost items
-👉 Focused on real-world problem solving and user experience
+👉 Web application for reporting, searching, and recovering lost items within an organization or campus.
+👉 Focused on authentication, real-world problem solving, and intuitive user experience.
 
 🔹 **LeetCode Solutions (DSA Practice)**
-👉 Collection of DSA problems solved using Python
-👉 Strengthening logical thinking and problem-solving skills
-
+👉 Collection of Data Structures & Algorithms solutions implemented in Python.
+👉 Continuously improving algorithmic thinking, problem-solving skills, and interview preparation.
 ---
 
 ## 📚 Currently Learning

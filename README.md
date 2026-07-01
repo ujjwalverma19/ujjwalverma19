@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:00F7FF&height=200&section=header&text=Ujjwal%20Verma&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&background=linear-gradient(135deg,#6c5ce7,#a29bfe)&height=180&section=header&text=Ujjwal%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -6,11 +6,11 @@
 
 🚀 **3rd Year IT Student | Aspiring Product Manager | Software Developer | Prompt Engineer**
 
-<img src="https://readme-typing-svg.herokuapp.com?color=F700FF&lines=Aspiring+Product+Manager;Future+Software+Engineer;Prompt+Engineer;Building+Cool+Projects;Learning+UX+%26+AI+Workflows+🚀&speed=40&pause=1000" />
+<img src="https://readme-typing-svg.herokuapp.com?color=a29bfe&lines=Aspiring+Product+Manager;Future+Software+Engineer;Prompt+Engineer;Building+Cool+Projects;Learning+UX+%26+AI+Workflows+🚀&speed=40&pause=1000" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ujjwalverma19&color=blue" />
+<img src="https://komarev.com/ghpvc/?username=ujjwalverma19&color=6c5ce7" />
 
 </div>
 
@@ -40,17 +40,17 @@
 ## 🏅 Skills & Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Product%20Thinking-Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UX%20Analysis-Beginner-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Product%20Thinking-Learning-6c5ce7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UX%20Analysis-Beginner-74b9ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-Wireframing-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-a29bfe?style=for-the-badge" />
   <br/>
-  <img src="https://img.shields.io/badge/C++-Strong-blue?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Python-Strong-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/C++-Strong-6c5ce7?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Python-Strong-6c5ce7?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/DSA-Strong-brightgreen?style=for-the-badge" />
   <br/>
-  <img src="https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/React-Frontend-6c5ce7?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
 </p>
@@ -111,7 +111,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ujjwal-verma-9a9b752a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ujjwal%20Verma-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ujjwal%20Verma-6c5ce7?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:ujjwal.verma1905@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
@@ -134,4 +134,4 @@
 
 I don’t just use AI — I explore how AI, UX, and Product Thinking can work together to build smarter digital experiences 😎
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&background=linear-gradient(135deg,#6c5ce7,#a29bfe)&height=40&section=footer" width="100%"/>

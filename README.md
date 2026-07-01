@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="110" />
+<img src="https://raw.githubusercontent.com/ujjwalverma19/ujjwalverma19/main/assets/mascot.svg" width="100" />
 
 ### Building products around how people actually think, learn, and work.
 

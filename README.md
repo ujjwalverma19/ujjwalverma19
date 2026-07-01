@@ -2,9 +2,11 @@
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="110" />
+
 ### Building products around how people actually think, learn, and work.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=A29BFE&center=true&vCenter=true&width=560&lines=Aspiring+Product+Manager;Software+Developer;Prompt+Engineer;Currently%3A+3rd+Year+IT+Student" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=3000&pause=1200&color=8B85B8&center=true&vCenter=true&width=560&lines=Aspiring+Product+Manager;Software+Developer;Prompt+Engineer;Currently%3A+3rd+Year+IT+Student" />
 
 <sub>📍 3rd Year Information Technology Student &nbsp;·&nbsp; 🔭 Building in public &nbsp;·&nbsp; ⚡ Learning UX &amp; AI-assisted workflows</sub>
 
@@ -119,7 +121,7 @@ A growing collection of Data Structures & Algorithms solutions implemented in Py
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ujjwalverma19&background=1E1E2E00&border=6C5CE7&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=E0DCFB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A85B0&hide_border=false" width="85%" />
+<img src="https://streak-stats.demolab.com?user=ujjwalverma19&background=1E1E2E00&border=3D3A56&ring=8B85B8&fire=8B85B8&currStreakLabel=8B85B8&sideLabels=C4C0DE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E6890&hide_border=false" width="85%" />
 
 <br/><br/>
 
@@ -133,11 +135,13 @@ A growing collection of Data Structures & Algorithms solutions implemented in Py
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjwal%20Verma-6c5ce7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-verma-9a9b752a2/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:ujjwal.verma1905@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6c5ce7?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ujjwal_verma19/)
-[![Instagram](https://img.shields.io/badge/Instagram-ujjwal__verma19-6c5ce7?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ujjwal_verma19)
-[![Music](https://img.shields.io/badge/Music%20Page-UnknownSongListener-6c5ce7?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/unknownsonglistener)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjwal%20Verma-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=A29BFE)](https://www.linkedin.com/in/ujjwal-verma-9a9b752a2/)
+[![X](https://img.shields.io/badge/X-@UJJWALV75382953-1e1e2e?style=for-the-badge&logo=x&logoColor=A29BFE)](https://x.com/UJJWALV75382953)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-1e1e2e?style=for-the-badge&logo=gmail&logoColor=A29BFE)](mailto:ujjwal.verma1905@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-1e1e2e?style=for-the-badge&logo=leetcode&logoColor=A29BFE)](https://leetcode.com/u/ujjwal_verma19/)
+<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-ujjwal__verma19-1e1e2e?style=for-the-badge&logo=instagram&logoColor=A29BFE)](https://instagram.com/ujjwal_verma19)
+[![Music](https://img.shields.io/badge/Music%20Page-UnknownSongListener-1e1e2e?style=for-the-badge&logo=instagram&logoColor=A29BFE)](https://instagram.com/unknownsonglistener)
 
 </div>
 

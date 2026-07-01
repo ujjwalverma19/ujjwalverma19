@@ -1,137 +1,150 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&background=linear-gradient(135deg,#6c5ce7,#a29bfe)&height=180&section=header&text=Ujjwal%20Verma&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:6c5ce7&height=160&section=header&text=Ujjwal%20Verma&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Product%20Builder%20%C2%B7%20Software%20Developer%20%C2%B7%20Prompt%20Engineer&descSize=16&descAlignY=62&descColor=e0dcfb" width="100%" />
 
 <div align="center">
 
-# 👋 Hey, I'm Ujjwal Verma
+### Building products around how people actually think, learn, and work.
 
-🚀 **3rd Year IT Student | Aspiring Product Manager | Software Developer | Prompt Engineer**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=A29BFE&center=true&vCenter=true&width=560&lines=Aspiring+Product+Manager;Software+Developer;Prompt+Engineer;Currently%3A+3rd+Year+IT+Student" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=a29bfe&lines=Aspiring+Product+Manager;Future+Software+Engineer;Prompt+Engineer;Building+Cool+Projects;Learning+UX+%26+AI+Workflows+🚀&speed=40&pause=1000" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=ujjwalverma19&color=6c5ce7" />
+<sub>📍 3rd Year Information Technology Student &nbsp;·&nbsp; 🔭 Building in public &nbsp;·&nbsp; ⚡ Learning UX &amp; AI-assisted workflows</sub>
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+## About Me
 
-* 🎓 **Academic Journey:** 3rd Year Information Technology Student
-* 💻 **Core Passion:** Software Development, Product Thinking & AI-driven solutions
-* 🚀 **Areas of Exploration:** Product Management, UX Analysis, and AI-assisted workflows
-* 🔥 **AI Optimization:** Skilled in Prompt Engineering — making AI deliver precise results
-* ⚡ **Efficiency Architect:** I design prompts that make AI perform complex tasks efficiently
-* 🎯 **Product Delivery:** Building product case studies, wireframes, and user-focused product ideas
-* 📚 **Skill Expansion:** Currently learning Figma, Product Strategy, UX Thinking & Product Analysis
-* 🎯 **Career Focus:** Preparing for Product Management & Tech Internships
+I'm an IT undergraduate who spends most of his time at the intersection of **software, product thinking, and AI**. My work leans toward shipping real products — not just writing code — which means I care as much about *why* something is being built as *how*.
 
----
+- 🎓 **Academic Journey** — 3rd Year Information Technology Student
+- 💻 **Core Passion** — Software development, product thinking, and AI-driven solutions
+- 🧭 **Areas of Exploration** — Product management, UX analysis, and AI-assisted workflows
+- 🔥 **AI Optimization** — Prompt engineering, tuned for precise, reliable outputs
+- ⚙️ **Efficiency Architect** — Designing prompts that let AI handle complex tasks end-to-end
+- 🎯 **Product Delivery** — Case studies, wireframes, and user-focused product ideas
+- 📐 **Skill Expansion** — Currently deepening Figma, product strategy, and UX thinking
+- 🚀 **Career Focus** — Product Management & Tech internships
 
-## 🛠️ Tech Stack & Tools
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,fastapi,mysql,sqlite,html,css,figma,github" />
-</p>
+## Tech Stack
 
----
+<div align="center">
 
-## 🏅 Skills & Badges
+<img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,fastapi,mysql,sqlite,html,css,figma,git,github&theme=dark" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Product%20Thinking-Learning-6c5ce7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UX%20Analysis-Beginner-74b9ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-Wireframing-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-Advanced-a29bfe?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/C++-Strong-6c5ce7?style=for-the-badge&logo=c%2B%2B" />
-  <img src="https://img.shields.io/badge/Python-Strong-6c5ce7?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/DSA-Strong-brightgreen?style=for-the-badge" />
-  <br/>
-  <img src="https://img.shields.io/badge/React-Frontend-6c5ce7?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql" />
-</p>
+</div>
 
----
+<div align="center">
+<sub>
 
-## 🚀 Featured Projects
+`C++` `Python` `JavaScript` &nbsp;·&nbsp; `React` `Node.js` `FastAPI` &nbsp;·&nbsp; `MySQL` `SQLite` &nbsp;·&nbsp; `Figma`
 
-### 🔹 Orivan — Editorial Learning Platform
-* Discover the complete journeys of founders, scientists, athletes, creators, and innovators through beautifully crafted long-form experiences.
-* **Architecture:** Built with TanStack Start, React 19, TypeScript, Tailwind CSS, SSR, and Cloudflare.
-* **Features:** Semantic search, curated collections, videos, community stories, SEO optimization, sitemap generation, and responsive design.
+</sub>
+</div>
 
-### 🔹 Veilory — AI-Powered Emotional Wisdom Platform
-* A platform for preserving real-life experiences, failures, and lessons instead of social media highlights.
-* **Core Mechanics:** Designed around semantic search, emotional discovery, and meaningful storytelling.
-* **Product Vision:** Focused on AI-first product design, scalable architecture, and user-centered experiences.
+<br/>
 
-### 🔹 SAI Advisors — Business Portfolio Website
-* Designed and developed a modern business website for an insurance advisory firm.
-* **Development:** Built with React, Vite, and responsive UI components to showcase services, portfolio, and company information.
-* **Design Philosophy:** Focused on clean layout, performance, and professional user experience.
+## Currently Learning
 
-### 🔹 Lost and Found Portal
-* Web application for reporting, searching, and recovering lost items within an organization or campus.
-* **Impact:** Focused on authentication, real-world problem solving, and intuitive user experience.
+> Product management & strategy · Product thinking & UX analysis · Wireframing and prototyping in Figma · Advanced prompt engineering & AI-assisted product workflows · User-centric problem solving
 
-### 🔹 LeetCode Solutions (DSA Practice)
-* Collection of Data Structures & Algorithms solutions implemented in Python.
-* **Goals:** Continuously improving algorithmic thinking, problem-solving skills, and interview preparation.
+<br/>
 
----
+## Featured Projects
 
-## 📈 GitHub Activity
+<table>
+<tr>
+<td width="100%">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ujjwalverma19&theme=tokyonight" width="85%" />
-</p>
+### 🪶 Orivan — Editorial Learning Platform
+Discover the complete journeys of founders, scientists, athletes, creators, and innovators through beautifully crafted long-form experiences.
 
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://github.com/ujjwalverma19/ujjwalverma19/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
+**Stack:** TanStack Start · React 19 · TypeScript · Tailwind CSS · SSR · Cloudflare
+**Highlights:** Semantic search, curated collections, video content, community stories, SEO-optimized architecture, sitemap generation, fully responsive design
 
----
+🔗 **[orivan.online](https://orivan.online)**
 
-## 📚 Currently Learning
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-* 📂 Product Management & Strategy
-* 🧠 Product Thinking & UX Analysis
-* 📐 Wireframing and Prototyping in Figma
-* 🤖 Advanced Prompt Engineering & AI-assisted Product Workflows
-* 💡 User-Centric Problem Solving
+### 🌙 Veilory — AI-Powered Emotional Wisdom Platform
+A platform built for preserving real-life experiences, failures, and lessons — instead of social media highlight reels.
 
----
+**Core Mechanics:** Semantic search, emotional discovery, meaningful storytelling
+**Product Vision:** AI-first product design, scalable architecture, user-centered experiences
 
-## 🌍 Connect With Me
+🔗 **[veilory.online](https://veilory.online)**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ujjwal-verma-9a9b752a2/">
-    <img src="https://img.shields.io/badge/LinkedIn-Ujjwal%20Verma-6c5ce7?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ujjwal.verma1905@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://leetcode.com/u/ujjwal_verma19/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <br/>
-  <a href="https://instagram.com/ujjwal_verma19">
-    <img src="https://img.shields.io/badge/Instagram-Ujjwal__verma19-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/unknownsonglistener">
-    <img src="https://img.shields.io/badge/Music%20Page-UnknownSongListener-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+</td>
+</tr>
+<tr>
+<td width="100%">
 
----
+### 🧭 SAI Advisors — Business Portfolio Website
+A modern business website designed and developed for an insurance advisory firm.
 
-## ⚡ Fun Fact
+**Stack:** React · Vite · responsive UI components
+**Focus:** Clean layout, performance, and a professional user experience across services, portfolio, and company information
 
-I don’t just use AI — I explore how AI, UX, and Product Thinking can work together to build smarter digital experiences 😎
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e2e&background=linear-gradient(135deg,#6c5ce7,#a29bfe)&height=40&section=footer" width="100%"/>
+### 🔎 Lost and Found Portal
+A web application for reporting, searching, and recovering lost items within an organization or campus.
+
+**Focus:** Authentication, real-world problem solving, and an intuitive user experience
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🧩 LeetCode Solutions — DSA Practice
+A growing collection of Data Structures & Algorithms solutions implemented in Python.
+
+**Goal:** Continuously sharpening algorithmic thinking, problem-solving, and interview readiness
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ujjwalverma19&background=1E1E2E00&border=6C5CE7&ring=6C5CE7&fire=A29BFE&currStreakLabel=A29BFE&sideLabels=E0DCFB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A85B0&hide_border=false" width="85%" />
+
+<br/><br/>
+
+<img src="https://github.com/ujjwalverma19/ujjwalverma19/blob/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
+
+</div>
+
+<br/>
+
+## Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ujjwal%20Verma-6c5ce7?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ujjwal-verma-9a9b752a2/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-6c5ce7?style=flat-square&logo=gmail&logoColor=white)](mailto:ujjwal.verma1905@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-6c5ce7?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/ujjwal_verma19/)
+[![Instagram](https://img.shields.io/badge/Instagram-ujjwal__verma19-6c5ce7?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ujjwal_verma19)
+[![Music](https://img.shields.io/badge/Music%20Page-UnknownSongListener-6c5ce7?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/unknownsonglistener)
+
+</div>
+
+<br/>
+
+<div align="center">
+<sub>💡 I don't just use AI — I explore how AI, UX, and product thinking come together to build smarter digital experiences.</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:1e1e2e&height=100&section=footer" width="100%"/>

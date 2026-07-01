@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:6c5ce7&height=160&section=header&text=Ujjwal%20Verma&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Product%20Builder%20%C2%B7%20Software%20Developer%20%C2%B7%20Prompt%20Engineer&descSize=16&descAlignY=62&descColor=e0dcfb" width="100%" />
+<img src="https://raw.githubusercontent.com/ujjwalverma19/ujjwalverma19/main/banner.svg" width="100%" />
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ujjwalverma19/ujjwalverma19/main/assets/mascot.svg" width="100" />
+<img src="https://raw.githubusercontent.com/ujjwalverma19/ujjwalverma19/main/mascot.svg" width="100" />
 
 ### Building products around how people actually think, learn, and work.
 
@@ -151,4 +151,4 @@ A growing collection of Data Structures & Algorithms solutions implemented in Py
 <sub>💡 I don't just use AI — I explore how AI, UX, and product thinking come together to build smarter digital experiences.</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:1e1e2e&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/ujjwalverma19/ujjwalverma19/main/footer.svg" width="100%"/>
